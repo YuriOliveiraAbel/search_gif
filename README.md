@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+Project created in the course 'Criação de Apps Android e iOS com Flutter' of udemy available in https://www.udemy.com/curso-completo-flutter-app-android-ios/
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+The app function is search this bests gifs available through API GIPHY Developers (https://developers.giphy.com/).  
